@@ -11115,5 +11115,13 @@ textarea.form-control-lg {
 .menu {
   background: linear-gradient(to right, rgba(25, 135, 84, 0.95), rgba(32, 201, 151, 0.95));
 }
+.menu li {
+  padding: 0 0.7rem;
+}
+.menu li a {
+  color: #fff !important;
+  text-transform: capitalize;
+  font-weight: 600;
+}
 
 /*# sourceMappingURL=style.css.map */
