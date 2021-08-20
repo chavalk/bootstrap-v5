@@ -11129,6 +11129,11 @@ textarea.form-control-lg {
   transform: translateY(-50%);
   border-radius: 50%;
 }
+.btn-rounded span i {
+  color: #fff;
+  font-size: 1rem;
+  line-height: 2.5rem;
+}
 
 .menu {
   background: linear-gradient(to right, rgba(25, 135, 84, 0.95), rgba(32, 201, 151, 0.95));
