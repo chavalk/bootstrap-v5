@@ -16,7 +16,7 @@
         position: relative;
 
         a {
-            position: absolute;
+            @include absoluteCenter;
 
             span {
 
