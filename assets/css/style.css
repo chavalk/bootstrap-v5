@@ -11118,6 +11118,7 @@ textarea.form-control-lg {
   font-weight: 500;
   margin: 0;
   border: 0.1rem solid rgba(255, 255, 255, 0.6);
+  background-color: #fff;
 }
 .btn-rounded span {
   position: absolute;
