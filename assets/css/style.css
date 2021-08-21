@@ -11192,4 +11192,14 @@ textarea.form-control-lg {
   color: #20c997;
 }
 
+.border-animation {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 6rem;
+  height: 6rem;
+  border: 0.55rem solid #fff;
+  border-radius: 50%;
+}
+
 /*# sourceMappingURL=style.css.map */
