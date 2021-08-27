@@ -11259,5 +11259,8 @@ textarea.form-control-lg {
 .companies__logo-box img {
   height: 100%;
 }
+.companies__logo-box img:hover {
+  filter: grayscale(120);
+}
 
 /*# sourceMappingURL=style.css.map */
