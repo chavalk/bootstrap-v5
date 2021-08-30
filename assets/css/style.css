@@ -11346,6 +11346,8 @@ textarea.form-control-lg {
   width: 6rem;
   height: 6rem;
   position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 /*# sourceMappingURL=style.css.map */
