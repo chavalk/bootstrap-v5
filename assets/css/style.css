@@ -11352,5 +11352,15 @@ textarea.form-control-lg {
 .testimonials__picture img {
   border: 0.325rem solid rgba(25, 135, 84, 0.7);
 }
+.testimonials__name {
+  padding-top: 3rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  font-weight: 500;
+  color: #fff;
+}
+.testimonials__name h3 {
+  padding-top: 0.8rem;
+}
 
 /*# sourceMappingURL=style.css.map */
