@@ -11334,5 +11334,13 @@ textarea.form-control-lg {
   height: auto;
   text-align: center;
 }
+.testimonials__card i {
+  font-size: 1.5rem;
+  color: rgba(25, 135, 84, 0.7);
+}
+.testimonials__card .ratings i {
+  color: rgba(25, 135, 84, 0.7);
+  font-size: 1rem;
+}
 
 /*# sourceMappingURL=style.css.map */
