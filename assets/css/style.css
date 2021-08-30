@@ -11322,4 +11322,10 @@ textarea.form-control-lg {
   max-width: 100%;
 }
 
+.testimonials {
+  position: relative;
+  padding: 0;
+  background: linear-gradient(to right, rgba(25, 135, 84, 0.95), rgba(32, 201, 151, 0.95));
+}
+
 /*# sourceMappingURL=style.css.map */
