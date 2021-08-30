@@ -11361,6 +11361,11 @@ textarea.form-control-lg {
 }
 .testimonials__name h3 {
   padding-top: 0.8rem;
+  text-transform: capitalize;
+}
+.testimonials__name p {
+  padding-bottom: 2rem;
+  text-transform: capitalize;
 }
 
 /*# sourceMappingURL=style.css.map */
