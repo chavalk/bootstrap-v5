@@ -11342,5 +11342,10 @@ textarea.form-control-lg {
   color: rgba(25, 135, 84, 0.7);
   font-size: 1rem;
 }
+.testimonials__picture {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+}
 
 /*# sourceMappingURL=style.css.map */
