@@ -34,6 +34,10 @@
         position: absolute;
         left: 50%;
         transform: translate(-50%, -50%);
+
+        img {
+            border: 0.325rem solid rgba($primary, 0.7);
+        }
     }
 
     &__name {
