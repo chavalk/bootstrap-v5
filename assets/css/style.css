@@ -11386,17 +11386,14 @@ textarea.form-control-lg {
   width: 100%;
   height: 100%;
 }
-
-.portfolio-info {
+.portfolio-box .portfolio-info {
   background-color: rgba(25, 135, 84, 0.75);
   width: 100%;
   height: 100%;
   position: absolute;
   top: 0;
-  opacity: 0;
-  visibility: hidden;
 }
-.portfolio-info .caption {
+.portfolio-box .portfolio-info .caption {
   text-align: center;
   color: #fff;
   position: absolute;
@@ -11404,7 +11401,7 @@ textarea.form-control-lg {
   left: 50%;
   transform: translate(-50%, -50%);
 }
-.portfolio-info .caption h4 {
+.portfolio-box .portfolio-info .caption h4 {
   text-transform: uppercase;
 }
 
