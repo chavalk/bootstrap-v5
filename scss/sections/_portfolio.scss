@@ -21,3 +21,21 @@
         height: 100%;
     }
 }
+
+.portfolio-info {
+    background-color: rgba($primary, 0.75);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+
+    .caption {
+        text-align: center;
+        color: $white;
+        @include absoluteCenter;
+
+        h4 {
+            text-transform: uppercase;
+        }
+    }
+}
