@@ -27,6 +27,8 @@
         height: 100%;
         position: absolute;
         top: 0;
+        opacity: 0;
+        visibility: hidden;
 
         .caption {
             text-align: center;
@@ -36,6 +38,12 @@
             h4 {
                 text-transform: uppercase;
             }
+        }
+    }
+    &:hover {
+        .portfolio-info {
+            opacity: 1;
+            visibility: visible;
         }
     }
 }

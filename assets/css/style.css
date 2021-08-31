@@ -11392,6 +11392,8 @@ textarea.form-control-lg {
   height: 100%;
   position: absolute;
   top: 0;
+  opacity: 0;
+  visibility: hidden;
 }
 .portfolio-box .portfolio-info .caption {
   text-align: center;
@@ -11403,6 +11405,10 @@ textarea.form-control-lg {
 }
 .portfolio-box .portfolio-info .caption h4 {
   text-transform: uppercase;
+}
+.portfolio-box:hover .portfolio-info {
+  opacity: 1;
+  visibility: visible;
 }
 
 /*# sourceMappingURL=style.css.map */
