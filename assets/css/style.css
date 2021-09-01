@@ -11438,5 +11438,10 @@ textarea.form-control-lg {
   list-style-type: none;
   display: block;
 }
+.cta-info__list li::before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f00c";
+  font-weight: 600;
+}
 
 /*# sourceMappingURL=style.css.map */

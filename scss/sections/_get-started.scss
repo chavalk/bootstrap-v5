@@ -14,5 +14,11 @@
         position: relative;
         list-style-type: none;
         display: block;
+
+        li::before {
+            font-family: "Font Awesome 5 Free";
+            content: "\f00c";
+            font-weight: 600;
+        }
     }
 }
