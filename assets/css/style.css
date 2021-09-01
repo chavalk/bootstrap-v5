@@ -11512,5 +11512,24 @@ textarea.form-control-lg {
   font-size: 1rem;
   margin-left: 1rem;
 }
+@media (min-width: 576px) {
+  .footer-sm a i {
+    font-size: 1.6rem;
+  }
+}
+
+.company-list {
+  display: block;
+  list-style-type: none;
+  position: relative;
+}
+.company-list li {
+  margin-bottom: 0.5rem;
+  text-decoration: none;
+}
+.company-list li a {
+  color: #fff;
+  text-decoration: none;
+}
 
 /*# sourceMappingURL=style.css.map */
