@@ -11505,4 +11505,12 @@ textarea.form-control-lg {
   }
 }
 
+.footer-sm a {
+  color: #fff;
+}
+.footer-sm a i {
+  font-size: 1rem;
+  margin-left: 1rem;
+}
+
 /*# sourceMappingURL=style.css.map */
