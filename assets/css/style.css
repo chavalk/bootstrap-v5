@@ -11410,6 +11410,8 @@ textarea.form-control-lg {
 .portfolio-box:hover .portfolio-info {
   opacity: 1;
   visibility: visible;
+  transition-duration: 1000ms;
+  transition-property: all;
 }
 
 /*# sourceMappingURL=style.css.map */
