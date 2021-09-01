@@ -11381,6 +11381,7 @@ textarea.form-control-lg {
   height: 18.5rem;
   overflow: hidden;
   margin-bottom: 1.2rem;
+  border-top: 0.5rem solid #198754;
 }
 .portfolio-box img {
   width: 100%;
