@@ -11393,6 +11393,7 @@ textarea.form-control-lg {
   height: 100%;
   position: absolute;
   top: 0;
+  left: 0;
   opacity: 0;
   visibility: hidden;
 }
@@ -11406,6 +11407,7 @@ textarea.form-control-lg {
 }
 .portfolio-box .portfolio-info .caption h4 {
   text-transform: uppercase;
+  display: block;
 }
 .portfolio-box:hover .portfolio-info {
   opacity: 1;
