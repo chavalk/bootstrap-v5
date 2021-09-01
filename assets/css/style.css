@@ -11467,4 +11467,12 @@ textarea.form-control-lg {
   background-color: #151414;
 }
 
+.contact-box {
+  position: relative;
+}
+.contact-box__icon {
+  width: 4rem;
+  stroke: #198754;
+}
+
 /*# sourceMappingURL=style.css.map */
