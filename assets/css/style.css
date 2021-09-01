@@ -11408,6 +11408,11 @@ textarea.form-control-lg {
   text-transform: uppercase;
   display: block;
 }
+.portfolio-box:hover img {
+  transform: scale(1.5);
+  transition-duration: 1000ms;
+  transition-property: all;
+}
 .portfolio-box:hover .portfolio-info {
   opacity: 1;
   visibility: visible;
