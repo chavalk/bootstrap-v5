@@ -13,6 +13,7 @@
     &__icon {
         width: 2rem;
         stroke: $primary;
+        padding-top: 0.5rem;
 
         @include media-breakpoint-up(sm) {
             width: 4rem;
@@ -34,7 +35,7 @@
         }
 
         &--subtitle {
-            font-size: 0.9rem;
+            font-size: 0.8rem;
             color: $gray-600;
             text-decoration: none;
 
