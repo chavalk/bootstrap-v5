@@ -11531,5 +11531,8 @@ textarea.form-control-lg {
   color: #fff;
   text-decoration: none;
 }
+.company-list li a:hover {
+  color: #198754;
+}
 
 /*# sourceMappingURL=style.css.map */
