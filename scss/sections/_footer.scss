@@ -52,6 +52,10 @@
     a {
         color: $white;
 
+        &:hover {
+            color: $primary;
+        }
+
         i {
             font-size: 1rem;
             margin-left: 1rem;
