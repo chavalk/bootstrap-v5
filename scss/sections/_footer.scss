@@ -83,3 +83,18 @@
         }
     }
 }
+
+// STYLE THE COPYRIGHT CONTENT
+.footer-bottom {
+    background-color: $black;
+
+    &__copyright {
+        color: $gray-600;
+        font-weight: 400;
+
+        a {
+            color: $gray-300;
+            text-decoration: none;
+        }
+    }
+}
