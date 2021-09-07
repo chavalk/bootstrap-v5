@@ -11124,7 +11124,6 @@ textarea.form-control-lg {
 }
 .btn-rounded {
   position: relative;
-  padding: 0.9375rem 4.375rem 0.9375rem 1.25rem;
   font-weight: 700;
   margin: 0;
   border: 0.1rem solid rgba(255, 255, 255, 0.6);
@@ -11237,6 +11236,9 @@ textarea.form-control-lg {
   font-weight: 600;
 }
 
+.btn-navbar {
+  padding: 0.9375rem 4.375rem 0.9375rem 1.25rem;
+}
 @media (max-width: 575.98px) {
   .btn-navbar {
     display: none;
@@ -11273,6 +11275,10 @@ textarea.form-control-lg {
 }
 .border-animation--border-2 {
   animation-delay: 1.5s;
+}
+
+.btn-intro {
+  padding: 0.9375rem 4.375rem 0.9375rem 1.25rem;
 }
 
 .companies {
