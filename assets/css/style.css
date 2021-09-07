@@ -11431,6 +11431,10 @@ textarea.form-control-lg {
   transition-property: all;
 }
 
+.btn-portfolio {
+  padding: 0.9375rem 1.25rem 0.9375rem 1.25rem;
+}
+
 .get-started {
   padding: 4rem 0;
   background-color: #e9ecef;
