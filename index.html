@@ -693,6 +693,7 @@
 
   <section id="contact" class="get-started">
     <div class="container">
+      <!-- HEADING ROW -->
       <div class="row text-center mt-5">
         <h1 class="display-3 fw-bold text-capitalize">Contact</h1>
         <div class="heading-line"></div>
@@ -700,6 +701,7 @@
           Feel free to send me a message if you'd like to get in touch.
         </p>
       </div>
+
       <!-- START THE CALL TO ACTION CONTENT -->
        
       <div class="row text-white">
@@ -723,21 +725,21 @@
         <div class="col-12 col-lg-6 bg-white shadow p-3">
           <div class="form w-100 pb-2">
             <h4 class="display-3--title mb-5">Send Me A Message</h4>
-            <form action="#" class="row">
+            <form action="https://formspree.io/f/mnqllroy" class="row" method="POST">
               <div class="col-lg-6 col-md-6 mb-3">
-                <input type="text" placeholder="First Name" id="inputFirstName" class="shadow form-control form-control-lg">
+                <input type="text" placeholder="First Name" id="inputFirstName" class="shadow form-control form-control-lg" name="Name">
               </div>
               <div class="col-lg-6 col-md-6 mb-3">
-                <input type="text" placeholder="Last Name" id="inputLastName" class="shadow form-control form-control-lg">
+                <input type="text" placeholder="Last Name" id="inputLastName" class="shadow form-control form-control-lg" name="Last Name">
               </div>
               <div class="col-lg-12 mb-3">
-                <input type="email" placeholder="Email Address" id="inputEmail" class="shadow form-control form-control-lg">
+                <input type="email" placeholder="Email Address" id="inputEmail" class="shadow form-control form-control-lg" name="Email">
               </div>
               <div class="col-lg-12 mb-3">
-                <textarea name="message" placeholder="Message" id="message" rows="8" class="shadow form-control form-control-lg"></textarea>
+                <textarea name="Message" placeholder="Message" id="message" rows="8" class="shadow form-control form-control-lg"></textarea>
               </div>
               <div class="text-center d-grid mt-1">
-                <button type="button" class="btn btn-primary rounded-pill pt-3 pb-3">
+                <button type="submit" class="btn btn-primary rounded-pill pt-3 pb-3">
                   Submit
                   <i class="fas fa-paper-plane"></i>
                 </button>
