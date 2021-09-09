@@ -10,7 +10,7 @@ An application to showcase information about me, a portfolio of my projects, and
 
 The project allows me to have a professional online prescence to promote myself as a developer and to showcase all the different projects I've worked on. Below is a GIF showing the navigation of the application.
 
-![Bootstrap-Portfolio](client/src/img/a-lists.gif)
+![Bootstrap-Portfolio](images/bootstrap-sass-portfolio.gif)
 
 ## Why the project is useful
 
