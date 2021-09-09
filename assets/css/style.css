@@ -11473,6 +11473,40 @@ textarea.form-control-lg {
   text-transform: capitalize;
 }
 
+#status {
+  width: 100%;
+  max-width: 100%;
+  text-align: center;
+  padding: 1rem;
+  margin: 0 auto;
+  border-radius: 1rem;
+}
+
+#status.success {
+  background-color: #d3fa99;
+  animation: status 4s ease forwards;
+}
+
+#status.error {
+  background-color: #fa815c;
+  color: #fff;
+  animation: status 4s ease forwards;
+}
+
+@keyframes status {
+  0% {
+    opacity: 1;
+    pointer-events: all;
+  }
+  90% {
+    opacity: 1;
+    pointer-events: all;
+  }
+  100% {
+    opacity: 0;
+    pointer-events: none;
+  }
+}
 .footer {
   padding-top: 1rem;
   background-color: #151414;
